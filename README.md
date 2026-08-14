@@ -43,3 +43,10 @@ This project is created for educational purposes as part of a Git and version co
 ## Project Status
 
 The student portal includes login, profile, and dashboard features.
+## Project Structure
+
+- `index.html` - Portal home page
+- `login.html` - Login page
+- `profile.html` - Student profile
+- `dashboard.html` - Student dashboard
+- `css/` - Stylesheets
