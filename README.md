@@ -40,3 +40,6 @@ Use the navigation links to move between the different sections of the portal.
 ## License
 
 This project is created for educational purposes as part of a Git and version control assignment.
+## Project Status
+
+The student portal includes login, profile, and dashboard features.
