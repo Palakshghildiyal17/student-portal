@@ -36,3 +36,7 @@ Use the navigation links to move between the different sections of the portal.
 3. Commit your changes with a clear commit message.
 4. Push the branch to GitHub.
 5. Open a pull request for review.
+
+## License
+
+This project is created for educational purposes as part of a Git and version control assignment.
