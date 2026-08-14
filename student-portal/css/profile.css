@@ -118,3 +118,6 @@ header a {
 .information-item strong {
     font-size: 16px;
 }
+.profile-page p {
+    margin: 8px 0;
+}
