@@ -53,3 +53,6 @@ The student portal includes login, profile, and dashboard features.
 ## Git Workflow
 
 Development is organized using feature branches. Changes are committed regularly and merged into the main branch after completion.
+## Version
+
+Current release: v1.0
