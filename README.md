@@ -50,3 +50,6 @@ The student portal includes login, profile, and dashboard features.
 - `profile.html` - Student profile
 - `dashboard.html` - Student dashboard
 - `css/` - Stylesheets
+## Git Workflow
+
+Development is organized using feature branches. Changes are committed regularly and merged into the main branch after completion.
