@@ -28,3 +28,11 @@ No additional dependencies are required for the current HTML and CSS implementat
 Open `index.html` in a modern web browser to access the student portal.
 
 Use the navigation links to move between the different sections of the portal.
+
+## Contributing
+
+1. Create a new branch for your changes.
+2. Make focused changes related to the feature or fix.
+3. Commit your changes with a clear commit message.
+4. Push the branch to GitHub.
+5. Open a pull request for review.
