@@ -5,3 +5,12 @@ A simple web-based student portal designed to provide students with access to ac
 ## Project Status
 
 The project is currently under development.
+
+## Features
+
+- Student dashboard
+- Student profile
+- Login interface
+- Account settings
+- Academic information
+- Responsive web interface
